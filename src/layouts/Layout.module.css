@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3874ff;
+  padding: 20px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  color: #fff;
+  box-sizing: border-box;
+}
+
+.header h1 {
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: #fff;
+  text-transform: uppercase;
+  margin: 0 20px;
+}
+
+.footer {
+  text-align: center;
+  background-color: #3874ff;
+  padding: 20px;
+  margin-top: 50px;
+  border-radius: 10px;
+  color: #fff;
+}

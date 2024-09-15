@@ -1,8 +1,13 @@
 import { useState } from "react";
-import HomePage from "./assets/components/templates/HomePage";
+import HomePage from "./components/templates/HomePage";
+import Layout from "./layouts/Layout";
 
 function App() {
-  return <HomePage />;
+  return (
+    <Layout>
+      <HomePage />
+    </Layout>
+  );
 }
 
 export default App;

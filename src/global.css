@@ -5,10 +5,10 @@
 
 body {
   margin: auto;
-  min-width: 1200px;
+  width: 1200px;
   min-height: 100vh;
   padding: 10px;
-  border-color: #131315;
+  background-color: #131315;
   color: #fff;
 }
 
